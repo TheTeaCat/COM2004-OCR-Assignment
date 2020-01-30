@@ -20,6 +20,13 @@ Those modified/created by me were:
 
 See [Provided_README.md](/Provided_README.md)
 
+If you're lazy (I am too):
+
+```
+python train.py
+python evaluate.py dev
+```
+
 ## Performance
 
 Performance on the provided test pages can be found in [report.md](/report.md).
