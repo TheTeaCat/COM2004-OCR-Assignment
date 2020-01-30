@@ -29,20 +29,17 @@ python evaluate.py dev
 
 ## Performance
 
-Performance on the provided test pages can be found in [report.md](/report.md).
-
-Performance on the unseen test pages (not provided) used to mark the assignment 
+Performance on the unseen test pages (not provided) and the provided test pages 
 were as follows:
 
->### Scores on test pages:
->
->| Page   | % Correct |
->|--------|-----------|
->| Page 1 |    96.3   |
->| Page 2 |    96.6   |
->| Page 3 |    94.1   |
->| Page 4 |    82.9   |
->| Page 5 |    72.1   |
->| Page 6 |    59.5   |
->
->**Average correct = 83.6%**
+### Scores on test pages:
+
+| Page   | % Correct (unseen) | % Correct (provided) |
+|--------|--------------------|----------------------|
+| Page 1 |        96.3        |         97.6         |
+| Page 2 |        96.6        |         98.7         |
+| Page 3 |        94.1        |         96.5         |
+| Page 4 |        82.9        |         86.8         |
+| Page 5 |        72.1        |         74.0         |
+| Page 6 |        59.5        |         63.8         |
+|  Avg.  |        83.6        |         86.2         |
