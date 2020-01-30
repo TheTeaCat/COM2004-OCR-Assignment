@@ -42,6 +42,12 @@ were as follows:
 | Page 6 |        59.5        |         63.8         |
 |  Avg.  |        83.6        |         86.2         |
 
+## Other Solutions
+
+I've found one other solution to this assignment on GitHub from my class:
+
+ - [@xuan525/OCR-System-Assignment](https://github.com/xuan525/OCR-System-Assignment)
+
 ## Provided Pages
 
 |                Page 1                |                Page 2                |                Page 3                |
