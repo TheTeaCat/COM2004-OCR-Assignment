@@ -8,11 +8,14 @@ progressively noisier.
 
  - A description of my solution can be found in [report.md](/report.md)
 
+---
+
 **All files except this readme form the assignment.**
 
 Those modified/created by me were:
  - [code/system.py](/code/system.py)
  - [code/data/model.json.gz](/code/data/model.json.gz)
+ - [code/evaluate.py](/code/evaluate.py) (I modified this to show misclassifications)
  - [report.md](/report.md)
  - [Results.xlsx](/Results.xlsx) (although this was not part of the submission)
 
@@ -29,7 +32,7 @@ python evaluate.py dev
 
 ## Performance
 
-Performance on the unseen test pages (not provided) and the provided test pages 
+Performance on the unseen test pages (not provided, used for marking) and the provided test pages 
 were as follows:
 
 | Page   | % Correct (unseen) | % Correct (provided) |
