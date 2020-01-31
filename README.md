@@ -8,6 +8,8 @@ progressively noisier.
 
  - A description of my solution can be found in [report.md](/report.md)
 
+Those reading and judging the code should bear in mind that this was a _programming experiment_.
+
 ---
 
 **All files except this readme form the assignment.**
