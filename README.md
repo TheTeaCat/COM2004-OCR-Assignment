@@ -55,10 +55,10 @@ I've found one other solution to this assignment on GitHub from my class:
 
 ## Provided Pages
 
-|                Page 1                |                Page 2                |                Page 3                |
-|--------------------------------------|--------------------------------------|--------------------------------------|
-| ![Page 1](/code/data/dev/page.1.png) | ![Page 2](/code/data/dev/page.2.png) | ![Page 3](/code/data/dev/page.3.png) |
+| Page 1                                | Page 2                                | Page 3                                |
+| ------------------------------------- | ------------------------------------- | ------------------------------------- |
+| ![Page 1](./code/data/dev/page.1.png) | ![Page 2](./code/data/dev/page.2.png) | ![Page 3](./code/data/dev/page.3.png) |
 
-|                Page 4                |                Page 5                |                Page 6                |
-|--------------------------------------|--------------------------------------|--------------------------------------|
-| ![Page 4](/code/data/dev/page.4.png) | ![Page 5](/code/data/dev/page.5.png) | ![Page 6](/code/data/dev/page.6.png) |
+| Page 4                                | Page 5                                | Page 6                                |
+| ------------------------------------- | ------------------------------------- | ------------------------------------- |
+| ![Page 4](./code/data/dev/page.4.png) | ![Page 5](./code/data/dev/page.5.png) | ![Page 6](./code/data/dev/page.6.png) |
