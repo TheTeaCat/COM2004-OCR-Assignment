@@ -1,8 +1,6 @@
 # COM2004-OCR-Assignment
 
-This was an assignment to perform OCR given several pages of text and their 
-bounding boxes, one set of which was entirely clean, and the other of which was
-progressively noisier.
+This was an assignment to perform OCR given several pages of text and their bounding boxes, one set of which was entirely clean, and the other of which was progressively noisier.
 
  - A description of the assignment can be found in [Provided_README.md](/Provided_README.md)
 
