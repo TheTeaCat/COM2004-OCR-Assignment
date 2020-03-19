@@ -45,7 +45,7 @@ were as follows:
 | Page 6 | 59.5               | 63.8                 | 29                    |
 | Avg.   | 83.6               | 86.2                 | 67.5                  |
 
-**The baseline approach is detailed in [Provided_README.md](/Provided_README.md) as "the approximate performance that you should expect using a basic nearest neighbour and PCA based approach".*
+**The baseline approach is detailed in [Provided_README.md](/Provided_README.md#overall-performance-10-marks) as "the approximate performance that you should expect using a basic nearest neighbour and PCA based approach".*
 
 
 
