@@ -35,15 +35,19 @@ python evaluate.py dev
 Performance on the unseen test pages (not provided, used for marking) and the provided test pages 
 were as follows:
 
-| Page   | % Correct (unseen) | % Correct (provided) |
-|--------|--------------------|----------------------|
-| Page 1 |        96.3        |         97.6         |
-| Page 2 |        96.6        |         98.7         |
-| Page 3 |        94.1        |         96.5         |
-| Page 4 |        82.9        |         86.8         |
-| Page 5 |        72.1        |         74.0         |
-| Page 6 |        59.5        |         63.8         |
-|  Avg.  |        83.6        |         86.2         |
+| Page   | % Correct (unseen) | % Correct (provided) | % Correct (baseline*) |
+| ------ | ------------------ | -------------------- | --------------------- |
+| Page 1 | 96.3               | 97.6                 | 98                    |
+| Page 2 | 96.6               | 98.7                 | 98                    |
+| Page 3 | 94.1               | 96.5                 | 83                    |
+| Page 4 | 82.9               | 86.8                 | 58                    |
+| Page 5 | 72.1               | 74.0                 | 39                    |
+| Page 6 | 59.5               | 63.8                 | 29                    |
+| Avg.   | 83.6               | 86.2                 | 67.5                  |
+
+**The baseline approach is detailed in [Provided_README.md](/Provided_README.md) as "the approximate performance that you should expect using a basic nearest neighbour and PCA based approach".*
+
+
 
 ## Other Solutions
 
